@@ -4,7 +4,8 @@ Currently a 1st year (2nd semester) Computer Science and Information Engineering
 
 | Category | Learned Technologies | Want to Learn |
 | :--- | :--- | :--- |
-| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-%23306998?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23234F1E?style=flat&logo=django&logoColor=white) | |
+| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-%23306998?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23234F1E?style=flat&logo=django&logoColor=white) ![Static Badge](https://img.shields.io/badge/Javascript-%23f0db4f?style=flat&logo=javascript&logoColor=white&labelColor=gray)
+ | |
 | **Operating Systems** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%2323BAC2?style=flat&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-red?style=flat&logo=ubuntu&logoColor=red&labelColor=white) | |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-brown?style=flat&logo=git&logoColor=red&labelColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colaboratory-gray?style=flat&logo=googlecolab&logoColor=yellow) ![JupyterLab](https://img.shields.io/badge/JupyterLab-%23F37626%20?style=flat&logo=jupyter&logoColor=white) | |
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-white?style=flat&logo=figma&logoColor=red) | |
