@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently a 1st year (2nd semester) Computer Science and Information Engineering student, aiming to work in a Cybersecurity or DevSecOps / DevOps field.
+Currently a 3rd year Computer Science and Information Engineering student, aiming to work in a Cybersecurity or DevSecOps / DevOps field.
 
 | Category | Learned Technologies | Want to Learn |
 | :--- | :--- | :--- |
