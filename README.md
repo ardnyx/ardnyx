@@ -15,4 +15,4 @@ pwndbg>
 
 Learning reverse engineering & low-level < security >
 
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
