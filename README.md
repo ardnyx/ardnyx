@@ -1,4 +1,4 @@
-```Shell
+```Python
  ► 0x400ef2 <phase_1+18>               call   WELCOME                <entry_point>
         rdi: 0x402400 ◂— outsd dx, dword ptr [rsi] /* 'Nothing is in here' */
         rsi: 0x402400 ◂— outsd dx, dword ptr [rsi] /* 'jk there's more' */
