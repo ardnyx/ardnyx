@@ -16,6 +16,8 @@ pwndbg>
 Learning reverse engineering & low-level < security >
 - currently studying `deeper`: Operating Systems, Computer Systems, x86_64 Assembly
 - capture-the-flag player (prioritizing reverse engineering)
+---
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kali-%23557C94?style=flat&logo=kalilinux&logoColor=white) ![Static Badge](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white) ![Static Badge](https://img.shields.io/badge/WSL2-%23FCC624?style=flat&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/Proxmox-%23E57000?style=flat&logo=proxmox&logoColor=white) ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=flat&logo=arduino&logoColor=white) ![Static Badge](https://img.shields.io/badge/Neovim-%2357A143?style=flat&logo=neovim&logoColor=white) ![Static Badge](https://img.shields.io/badge/GDB-%23A42E2B?style=flat&logo=gnu&logoColor=white) ![Static Badge](https://img.shields.io/badge/Github%20Actions-%232088FF?style=flat&logo=githubactions&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ```diff
 - Planning to develop my own (buggy, but functional) Type 1 Hypervisor 
@@ -37,8 +39,5 @@ Learning reverse engineering & low-level < security >
     ├── bomb (phase_4)
     └── bomb.c
 ```
-
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white) ![Static Badge](https://img.shields.io/badge/Kali-%23557C94?style=flat&logo=kalilinux&logoColor=white) ![Static Badge](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white) ![Static Badge](https://img.shields.io/badge/WSL2-%23FCC624?style=flat&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/Proxmox-%23E57000?style=flat&logo=proxmox&logoColor=white) ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=flat&logo=arduino&logoColor=white) ![Static Badge](https://img.shields.io/badge/Neovim-%2357A143?style=flat&logo=neovim&logoColor=white) ![Static Badge](https://img.shields.io/badge/GDB-%23A42E2B?style=flat&logo=gnu&logoColor=white) ![Static Badge](https://img.shields.io/badge/Github%20Actions-%232088FF?style=flat&logo=githubactions&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=flat&logo=googlecolab&logoColor=white)
-
 
 
